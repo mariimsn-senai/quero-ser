@@ -1,0 +1,16 @@
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.csprojAssemblyReference.cache
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.AssemblyInfo.cs
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\jokenpo1\bin\Debug\net5.0\jokenpo1.exe
+C:\Users\Marina\Documents\jokenpo1\bin\Debug\net5.0\jokenpo1.deps.json
+C:\Users\Marina\Documents\jokenpo1\bin\Debug\net5.0\jokenpo1.runtimeconfig.json
+C:\Users\Marina\Documents\jokenpo1\bin\Debug\net5.0\jokenpo1.runtimeconfig.dev.json
+C:\Users\Marina\Documents\jokenpo1\bin\Debug\net5.0\jokenpo1.dll
+C:\Users\Marina\Documents\jokenpo1\bin\Debug\net5.0\ref\jokenpo1.dll
+C:\Users\Marina\Documents\jokenpo1\bin\Debug\net5.0\jokenpo1.pdb
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.dll
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\ref\jokenpo1.dll
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.pdb
+C:\Users\Marina\Documents\jokenpo1\obj\Debug\net5.0\jokenpo1.genruntimeconfig.cache
